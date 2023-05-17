@@ -7,7 +7,7 @@ website design project
 🌟 About
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/MAndrulis
+Site published at: https://mandrulis.github.io/Coming-soon/
 
 Design: Coming soon
 
@@ -31,7 +31,7 @@ https://git-scm.com
 Would like to run this project locally? Open terminal and follow these steps:
 
 Clone the repo
-git clone https://github.com/MAndrulis
+git clone https://mandrulis.github.io/Coming-soon/
 Install NPM packages
 npm i
 or
@@ -42,7 +42,7 @@ npm run dev
 There is no tests for this project.
 
 🎅 Authors
-Rimantas: Github
+Modestas: Github
 
 ⚠️ License
 Distributed under the MIT License. See LICENSE.txt for more information.
