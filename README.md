@@ -69,7 +69,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-MAndrulis: [Github] https://mandrulis.github.io/Coming-soon/
+MAndrulis: [Github]
 
 ## ⚠️ License
 
