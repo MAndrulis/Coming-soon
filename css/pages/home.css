@@ -11,8 +11,8 @@
 .hero {
     min-height: 100vh;
     background-image: url(../../img/background.png);
-    background-repeat: no-repeat;
     background-position: bottom center;
+    background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -26,7 +26,7 @@
 
 .logo {
     width: 100%;
-    height: 90px;
+    height: 50px;
     object-fit: contain;
     object-position: center;    
 }
@@ -41,3 +41,27 @@
 .main-description {
     text-align: center;
 }
+
+.column-title {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.column-description {
+    font-size: 17px;
+    line-height: 1.7em;
+    color: #777;
+
+}
+
+.column-description > a {
+    color: var(--secondary-color);
+    text-decoration: none;
+
+}
+
+.column-description > a:hover {
+    text-decoration: underline;
+
+}
+
