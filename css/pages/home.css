@@ -84,7 +84,15 @@ footer.container {
     border-radius: 50%;
     transition: all 0.3s;
 }
+
+.column-description {
+    font-size: 17px;
+    line-height: 1.7em;
+    color: #777;
+}
 .socials > a:hover {
     background-color: #fff;
     color: var(--main-color);
 }
+
+
