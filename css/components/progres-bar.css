@@ -1,7 +1,7 @@
 .progress-bar-group {
     display: flex;
     flex-direction: column;
-    gap: 1em;
+    gap: 2em;
 }
 
 .progress-bar-group > .progress-bar {
