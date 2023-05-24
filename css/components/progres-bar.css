@@ -30,18 +30,9 @@
 }
 
 .progress-bar-group .progress{
-    width: 90%;
+    width: 40%;
     height: inherit;
     background-color: var(--main-color)
-}
-.proc1 {
-    width: 90%;
-}
-.proc2 {
-    width: 86%;
-}
-.proc3 {
-    width: 50%;
 }
 
 
