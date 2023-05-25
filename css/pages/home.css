@@ -95,4 +95,34 @@ footer.container {
     color: var(--main-color);
 }
 
+footer .logo {
+    margin: 40px 0;
+}
+
+.text-trio {   
+    text-align: center;
+   /* color: #fff;*/
+   /*color: rgb (255, 255, 255)*/
+    color: rgb(255, 255, 255, 0,5); 
+}
+
+.text-trio > span {
+}
+
+.text-trio > span > a {
+}
+
+.footer-bottom {
+    text-align: center;
+    color: #fff;
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
 
