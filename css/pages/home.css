@@ -9,6 +9,7 @@
 /* components */
 @import '../components/button.css';
 @import '../components/clock.css';
+@import '../components/progress-bar.css';
 
 /* CUSTOM CSS */
 
@@ -93,6 +94,7 @@ footer.container {
 .socials > a:hover {
     background-color: #fff;
     color: var(--main-color);
+    text-decoration: none;
 }
 
 footer .logo {
@@ -107,14 +109,17 @@ footer .logo {
 }
 
 .text-trio > span {
+    color: #fff;
 }
 
 .text-trio > span > a {
 }
 
+.text-trio > .line {}
+
 .footer-bottom {
     text-align: center;
-    color: #fff;
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .footer a {
@@ -124,5 +129,14 @@ footer .logo {
 
 .footer a:hover {
     text-decoration: underline;
+}
+
+@media (max-width: 700px) {
+    .text-trio {
+        display: block;
+    }
+    .text-trio {
+        display: none;
+    }
 }
 
